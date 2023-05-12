@@ -4,15 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src='demo/Image1.jpg' width='25'>
+<img src='demo/Image1.jpg' width='50'>
 
 ## Selected Question View
 
-![Image2](https://github.com/alldone03/QuizAppFlutter/assets/42821213/fea6b67f-01c1-49ea-82a5-5f461abfc381 )
+<img src='demo/Image2.jpg' width='50'>
 
 ## Result View
 
-![Image3](https://github.com/alldone03/QuizAppFlutter/assets/42821213/7a5e0b53-97ab-4131-bf0d-8b4b32249a39 | width=100)
+<img src='demo/Image3.jpg' width='50'>
 
 
 This project is a starting point for a Flutter application.
