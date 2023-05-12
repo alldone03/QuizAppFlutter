@@ -4,11 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-![Image1](https://github.com/alldone03/QuizAppFlutter/assets/42821213/10819507-082e-4f39-ac9b-6bbbeff47b9e | width=100)
+[![Image1](https://github.com/alldone03/QuizAppFlutter/assets/42821213/10819507-082e-4f39-ac9b-6bbbeff47b9e )](https://github.com/alldone03/QuizAppFlutter/blob/main/demo/Image1.jpg)
 
 ## Selected Question View
 
-![Image2](https://github.com/alldone03/QuizAppFlutter/assets/42821213/fea6b67f-01c1-49ea-82a5-5f461abfc381 | width=100)
+![Image2](https://github.com/alldone03/QuizAppFlutter/assets/42821213/fea6b67f-01c1-49ea-82a5-5f461abfc381 )
 
 ## Result View
 
