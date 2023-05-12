@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src='[figure/rstudio.png](https://github.com/alldone03/QuizAppFlutter/assets/42821213/fea6b67f-01c1-49ea-82a5-5f461abfc381)' width='25'>
+<img src='https://github.com/alldone03/QuizAppFlutter/assets/42821213/fea6b67f-01c1-49ea-82a5-5f461abfc381' width='25'>
 
 ## Selected Question View
 
