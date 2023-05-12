@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-[![Image1](https://github.com/alldone03/QuizAppFlutter/assets/42821213/10819507-082e-4f39-ac9b-6bbbeff47b9e )](https://github.com/alldone03/QuizAppFlutter/blob/main/demo/Image1.jpg)
+[](https://github.com/alldone03/QuizAppFlutter/blob/main/demo/Image1.jpg)
 
 ## Selected Question View
 
