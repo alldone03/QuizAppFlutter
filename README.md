@@ -4,6 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
+![Image1](https://github.com/alldone03/QuizAppFlutter/assets/42821213/10819507-082e-4f39-ac9b-6bbbeff47b9e)
+
+## Selected Question View
+
+![Image2](https://github.com/alldone03/QuizAppFlutter/assets/42821213/fea6b67f-01c1-49ea-82a5-5f461abfc381)
+
+## Result View
+
+![Image3](https://github.com/alldone03/QuizAppFlutter/assets/42821213/7a5e0b53-97ab-4131-bf0d-8b4b32249a39)
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
