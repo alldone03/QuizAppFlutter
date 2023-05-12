@@ -54,15 +54,16 @@ class _QuizState extends State<Quiz> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+        debugShowCheckedModeBanner: false,
         home: Scaffold(
             body: Container(
-      // color: const Color(0xff480092),
-      child: SafeArea(child: stateScreen!),
-      decoration: const BoxDecoration(
-          gradient: LinearGradient(
-              begin: Alignment.topCenter,
-              end: Alignment.bottomCenter,
-              colors: [Color(0xff490090), Color(0xff5e0093)])),
-    )));
+          // color: const Color(0xff480092),
+          child: SafeArea(child: stateScreen!),
+          decoration: const BoxDecoration(
+              gradient: LinearGradient(
+                  begin: Alignment.topCenter,
+                  end: Alignment.bottomCenter,
+                  colors: [Color(0xff490090), Color(0xff5e0093)])),
+        )));
   }
 }
