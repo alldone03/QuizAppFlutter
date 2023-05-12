@@ -4,15 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src='demo/Image1.jpg' width='80'>
+<img src='demo/Image1.jpg' width='100'>
 
 ## Selected Question View
 
-<img src='demo/Image2.jpg' width='80'>
+<img src='demo/Image2.jpg' width='100'>
 
 ## Result View
 
-<img src='demo/Image3.jpg' width='80'>
+<img src='demo/Image3.jpg' width='100'>
 
 
 This project is a starting point for a Flutter application.
